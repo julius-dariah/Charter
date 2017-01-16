@@ -11,11 +11,11 @@ $this->title = 'Charter';
     <div class="body-content">
 
         <div class="jumbotron" style="background-color:#0000FF">
-            <h1>Data Re-Use Charter</h1>
+            <h1>Data Re-Use Charter</h1>    
 
             <p class="lead">Supporting research collaboration on Cultural Heritage data</p>
 
-            <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started now</a></p>
+            <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Sign the Charter</a></p>
         </div>
 
         <div class="container">
@@ -65,23 +65,23 @@ $this->title = 'Charter';
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                            <div class="list-group">
-                            <a href="#" class="list-group-item">
+                        <div class="list-group">
+                            <div class="list-group-item">
                                 <h4 class="list-group-item-heading">First List Group Item Heading</h4>
                                 <p class="list-group-item-text">List Group Item Text</p>
-                            </a>
-                            <a href="#" class="list-group-item">
+                            </div>
+                            <div class="list-group-item">
                                 <h4 class="list-group-item-heading">Second List Group Item Heading</h4>
                                 <p class="list-group-item-text">List Group Item Text</p>
-                            </a>
-                            <a href="#" class="list-group-item">
+                            </div>
+                            <div class="list-group-item">
                                 <h4 class="list-group-item-heading">Third List Group Item Heading</h4>
                                 <p class="list-group-item-text">List Group Item Text</p>
-                            </a>
-                            <a href="#" class="list-group-item">
+                            </div>
+                            <div class="list-group-item">
                                 <h4 class="list-group-item-heading">Third List Group Item Heading</h4>
                                 <p class="list-group-item-text">List Group Item Text</p>
-                            </a>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -91,4 +91,6 @@ $this->title = 'Charter';
             </div>
         </div>
     </div>
+
+    
 </div>
