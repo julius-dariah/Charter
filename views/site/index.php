@@ -4,93 +4,96 @@
 
 $this->title = 'Charter';
 ?>
-<div class="site-index">
-
-
+<div class="light-background site-index">
 
     <div class="body-content">
 
-        <div class="jumbotron" style="background-color:#0000FF">
+        <div class="landing-img centerfy white-text jumbotron container-fluid">
             <h1>Data Re-Use Charter</h1>    
 
             <p class="lead">Supporting research collaboration on Cultural Heritage data</p>
 
-            <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Sign the Charter</a></p>
+            <p><a class="btn btn-lg btn-success" href="http://example.com">Sign the Charter</a></p>
         </div>
 
-        <div class="container">
+        <div class="centerfy container">
+            <h2>Enhancing collaboration and data-sharing.</h2>
+            <p class="grey-text">The Data Reuse Charter acts as an ethical contract for its members, who choose to abide by a set of grand principles stated in the <a href="example.com">Mission Statement</a>.</p>
+        </div>
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-8">
-                    <p>Making Cultural Heritage data easier to access, more sustainable, reproducible and citable.</p>
+                <div class="col-md-2 col-md-offset-1">
+                    <h2>Collaboration</h2>
+                    <p class="grey-text">The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
+                    <img src='image.jpg'>
                 </div>
-                <div class="col-lg-4">
-                    <p>Image...</p>
+                <div class="col-md-2">
+                    <h2>Collaboration</h2>
+                    <p class="grey-text">The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
+                    <img src='image.jpg'>
+                </div>
+                <div class="col-md-2">
+                    <h2>Collaboration</h2>
+                    <p class="grey-text">The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
+                    <img src='image.jpg'>
+                </div>
+                <div class="col-md-2">
+                    <h2>Collaboration</h2>
+                    <p class="grey-text">The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
+                    <img src='image.jpg'>
+                </div>
+                <div class="col-md-2">
+                    <h2>Collaboration</h2>
+                    <p class="grey-text">The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
+                    <img src='image.jpg'>
                 </div>
             </div>
         </div>
 
-        <div class="jumbotron" style="background-color:#0000F3">
+
+        <div class="dark-background white-text jumbotron">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                        <p>The funny five pictures</p>
+                        <p>Connecting all the key actors of research on Cultural Heritage data.</p>
+                        <p>By adhering to the Charter, the members benefit equally from the greater visibility and communication made possible by joining forces.</p>
+                        <p>It aims to generate synergies between actors willing to improve and contribute to the overall research data lifecycle.</p>
                     </div>
                     <div class="col-lg-6">
-                        <p>All partners in the Charter benefit equally from the greater visibility and communication made possible by joining forces.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <h2>Collaboration</h2>
-                    <p>The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
-                    <p>Image</p>
-                </div>
-                <div class="col-lg-4">
-                    <h2>Collaboration</h2>
-                    <p>The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
-                    <p>Image</p>
-                </div>
-                <div class="col-lg-4">
-                    <h2>Collaboration</h2>
-                    <p>The Charter helps you find new partners and define the goals of your reasearch collaboration.</p>
-                    <p>Image</p>
-                </div>
-            </div>
-        </div>
-        <div class="jumbotron" style="background-color:#DDDDDD">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="list-group">
-                            <div class="list-group-item">
-                                <h4 class="list-group-item-heading">First List Group Item Heading</h4>
-                                <p class="list-group-item-text">List Group Item Text</p>
-                            </div>
-                            <div class="list-group-item">
-                                <h4 class="list-group-item-heading">Second List Group Item Heading</h4>
-                                <p class="list-group-item-text">List Group Item Text</p>
-                            </div>
-                            <div class="list-group-item">
-                                <h4 class="list-group-item-heading">Third List Group Item Heading</h4>
-                                <p class="list-group-item-text">List Group Item Text</p>
-                            </div>
-                            <div class="list-group-item">
-                                <h4 class="list-group-item-heading">Third List Group Item Heading</h4>
-                                <p class="list-group-item-text">List Group Item Text</p>
-                            </div>
+                        <div class='circle-container'>
+                            <a href='#' class='deg18'><img src='image.jpg'></a>
+                            <a href='#' class='deg90'><img src='image.jpg'></a>
+                            <a href='#' class='deg162'><img src='image.jpg'></a>
+                            <a href='#' class='deg234'><img src='image.jpg'></a>
+                            <a href='#' class='deg306'><img src='image.jpg'></a>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        image
-                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src='image.jpg'>
+                </div>
+                <div class="col-lg-6">
+                    <p class="lead">Providing a unique service of mutual understanding and commitment for data reuse.</p>
+                    <p class="grey-text"><img src='image.jpg'>A single contact address to reach out.</p>
+                    <p class="grey-text"><img src='image.jpg'>All the relevant information about reuse conditions gathered in one place.</p>
+                    <p class="grey-text"><img src='image.jpg'>A memorandum that records the rights and duties of both parties.</p>
+                </div>
+            </div>
+        </div>
+        <div class="middle-background jumbotron centerfy">
+            <div class="container">
+                <div class="row">
+                    <p class="lead">Try it now and become a part of a trusted network of scholars and research infrastructures.</p>
+                    <p><a class="btn btn-lg btn-success" href="http://example.com">Sign the Charter</a></p>        
+                    <p class="grey-text">Or if you are curious to see who our members are and what datasets are available, you can start <a href="example.com">exploring now</a> and sign later.</p>
                 </div>
             </div>
         </div>
     </div>
 
-    
 </div>
